@@ -38,6 +38,10 @@ while attempts > 0:
     print(f"Letras usadas: {', '.join(guessed)}")
         
     letter = input("Ingresa una letra: ")
+    
+    if len(letter) > 1 or letter.lower() not in string.ascii_lowercase: 
+        print("Entrada no valida")
+        continue
         
     if letter in guessed:
         print("Ya usaste esa letra.")
