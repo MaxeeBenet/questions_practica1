@@ -1,5 +1,5 @@
-## Trabajo practico N° 1
+# Trabajo practico N° 1
 
-# Seminario de lenguajes - Python. UNLP
+## Seminario de lenguajes - Python. UNLP
 
-# questions_practica1
+### questions.py, juego del ahorcado basico.
