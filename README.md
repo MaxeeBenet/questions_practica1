@@ -2,4 +2,6 @@
 
 ## Seminario de lenguajes - Python. UNLP
 
-### questions.py, juego del ahorcado basico.
+### questions.py, juego del ahorcado.
+
+### Maximiliano Benet.
