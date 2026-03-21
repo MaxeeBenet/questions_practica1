@@ -80,4 +80,4 @@ else:
             
             
     else:
-        print(f"¡Perdiste! la palabra era: {word}, tu puntaje es {score}")
+        print(f"¡Perdiste! la palabra era: {word}, tu puntaje es {score}.")
