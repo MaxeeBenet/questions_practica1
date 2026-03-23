@@ -4,4 +4,5 @@
 
 ### questions.py, juego del ahorcado.
 
-### Maximiliano Benet.
+### Maximiliano Benet / N° Alumno: 028532/4
+### Email: maximilianobenet@gmail.com
